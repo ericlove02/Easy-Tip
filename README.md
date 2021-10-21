@@ -31,7 +31,8 @@ Easy Tip only ever got a shell of a front end and a portion of a back-end, but w
 
 <p align="right">(<a href="#top">back to top</a>)</p>
      
- ## Images   
+ ## Images    
+Screenshots from the app can be found below:     
 <img src="https://user-images.githubusercontent.com/53005525/136718029-ccaa1dc0-c339-4072-9480-bfe8446ff805.PNG" alt="IMG_8624" width="316" height="602">
 <img src="https://user-images.githubusercontent.com/53005525/136718030-d552a7ac-2ce3-4755-8cf2-c20cd979bac3.PNG" alt="IMG_8625" width="316" height="602">
 <img src="https://user-images.githubusercontent.com/53005525/136718037-2ba66df9-c686-4915-974e-324a5b48a62e.PNG" alt="IMG_8626" width="316" height="602">
